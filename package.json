@@ -1,0 +1,25 @@
+{
+  "name": "clicky_game",
+  "version": "1.0.0",
+  "description": "You can use the [editor on GitHub](https://github.com/cerise612/clicky_game/edit/master/README.md) to maintain and preview the content for your website in Markdown files.",
+  "main": "index.js",
+  "dependencies": {
+    "react": "^16.4.2",
+    "react-scripts": "^1.1.5",
+    "react-dom": "^16.4.2"
+  },
+  "devDependencies": { 
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerise612/clicky_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerise612/clicky_game/issues"
+  },
+  "homepage": "https://github.com/cerise612/clicky_game#readme"
+}
