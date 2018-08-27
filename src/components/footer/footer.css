@@ -1,0 +1,28 @@
+.footer {
+    background-color: #070f31;
+    opacity: 0.8;
+    width: 100%;
+    font-size: 1rem;
+    font-family: 'Julius Sans One', sans-serif;
+    height: 15vh; 
+    margin:0;
+    clear: both;
+}
+.content{
+    flex-direction: row;
+    padding-left: 35vw;
+}
+.title {
+    padding-top: 7vh;
+    color: cornflowerblue;
+    opacity: 1;
+    margin: 0;
+    float: left;
+}
+
+.logo {
+    padding-top: 6vh;
+    padding-left: 2vw;
+    height: 5vh;
+    width: 5vh;
+}

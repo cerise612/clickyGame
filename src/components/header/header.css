@@ -1,0 +1,27 @@
+.header {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrjVOFxDbH-KYHVbHb-mEKVX94qZYYxIwoQfX4AsBtibqfkinj");
+    background-repeat: no-repeat; 
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    opacity: 0.6;
+    width: 100%;
+    text-align: center;
+    font-size: 1rem;
+    font-family: 'Julius Sans One', sans-serif;
+    height: 20vh;
+}
+
+h1 {
+    color: #360c26;
+    opacity: 1;
+    margin: 0;
+    vertical-align: middle;
+    padding-top: 5vh;
+}
+
+h2 {
+    color: #360c26;
+    opacity: 1;
+    margin: 0;
+}
