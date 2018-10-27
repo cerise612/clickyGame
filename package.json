@@ -1,6 +1,7 @@
 {
   "name": "reactgame",
   "version": "0.1.0",
+  "homepage": "https://cerise612.github.io/clickyGame/",
   "private": true,
   "dependencies": {
     "react": "^16.4.2",
